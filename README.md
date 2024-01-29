@@ -2,7 +2,7 @@
 Overview
 This PowerBI project focuses on analyzing and visualizing Seattle pet license data. The dataset includes information on pet breeds, licensing trends over time, and a breakdown of licenses by primary breed. The goal is to provide insights into the distribution of pet breeds, licensing patterns, and trends over different time periods.
 
-Contents
+**Contents**
 1. Breed Breakdown
 
 Visualizations depicting the distribution of pet breeds in Seattle.
@@ -28,5 +28,6 @@ Options to compare different breeds, license types, or other relevant factors.
 Another perspective on the temporal comparison of pet licenses.
 Additional metrics or visualizations for a comprehensive understanding of trends.
 
-Data Source
+**Data Source**
+
 The data for this project is sourced from Seattle's pet license records. Ensure that the dataset is up-to-date and properly formatted to maintain the accuracy of the visualizations.
